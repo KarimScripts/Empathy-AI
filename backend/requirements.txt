@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+passlib[bcrypt]
+python-jose[cryptography]
+fastapi-cors
+tinydb
+transformers
+torch
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+accelerate
+bitsandbytes 
